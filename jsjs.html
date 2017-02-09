@@ -1,0 +1,23 @@
+<html>
+ <head>
+    <link rel="stylesheet" type="text/css" href="js.css" />
+  <meta charset="utf-8">
+  <title>ИЗУЧЕНИЕ JS</title>
+  <script type="text/javascript">
+    var counter = 0;
+	function timer(){
+	  counter++;
+	  document.getElementById("count").innerHTML = counter;
+	  setTimeout("timer()", 1000);
+	  }
+  </script>
+ </head>
+ <body onload="timer()">
+    Секунд прошло <span id="count"></span>
+	<script>
+	  var x = 5;
+	  var y = 8;
+	  x < y ? alert("YES"): document.write("NO");
+	</script>
+ </body>
+</html>

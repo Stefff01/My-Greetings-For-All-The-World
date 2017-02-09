@@ -1,0 +1,31 @@
+﻿<html>
+ <head>
+    <link rel="stylesheet" type="text/css" href="js.css" />
+  <meta charset="utf-8">
+  <title>ИЗУЧЕНИЕ JS</title>
+  <script type="text/javascript">
+    function buttonClick (button){
+	  alert("YOU TOUCHED!?!");
+	  }
+	  
+	var mousecounter = 0;
+	function counter (element) {
+	  
+	  mousecounter++;
+	  element.innerHTML = "YOU HOVERED MOUSE ON THIS TEXT " + mousecounter + " TIMES!!!";
+	  }
+	  
+	var x = _;
+	function supaclick (click){
+	  alert("You CLICKED!?!");
+	  
+	  }
+  </script>
+ </head>
+     <script type="text/javascript" href="js.js"></script>
+ <body onload="alert('Страница загружена')">
+    <input type="button" name="b" value="DON'T TOUCH ME!!!" onclick="buttonClick (this)" />
+	<input type ="click" name="a" value="Don't write here!!!" onclick="supaclick (this)">
+	<span onmouseover="counter (this)">YOU HOVERED MOUSE ON THIS TEXT 0 TIMES!!!</span>
+ </body>
+</html>

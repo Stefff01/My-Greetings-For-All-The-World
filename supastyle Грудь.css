@@ -1,0 +1,129 @@
+*{background-color:darkred;
+  font-family:Comic Sans MS;}
+  
+header{height:40px;
+	width:100%;
+	background-color:lightblue;
+	margin:0px;
+	padding-top:25px;
+	border:2px solid blue;
+	border-radius:25px;}
+	
+ #href0{margin-left:5px;
+     border:2px outset maroon;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:43px;
+	 padding-right:43px;
+	 border-radius:25px;}
+
+ #href{margin-left:5px;
+     border:2px outset maroon;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:43px;
+	 padding-right:43px;
+	 border-radius:25px;}
+ 
+  #href1{margin-left:5px;
+     border:2px outset maroon;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:43px;
+	 padding-right:43px;
+	 border-radius:25px;}
+ 
+   #href2{margin-left:5px;
+     border:2px outset maroon;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:43px;
+	 padding-right:43px;
+	 border-radius:25px;}
+	 
+   #href3{margin-left:5px;
+     border:2px outset maroon;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:43px;
+	 padding-right:43px;
+	 border-radius:25px;}
+	 
+	#href4{margin-left:5px;
+	 border:2px outset maroon;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:43px;
+	 padding-right:28px;
+	 border-radius:25px;}
+	 
+article{height:1000px;
+	width:100%;
+	color:white;
+	background-color:lightblue;
+	font-size:25px;
+	font-weight:bolder;
+	margin:0px;
+	padding-top:25px;
+	margin-top:15px;
+	border:2px solid blue;
+	float:left;}
+
+   table {font-size:25px;
+	font-weight:bolder;
+	width: 50%;
+	background: white;
+	color: white;
+	border-spacing: 2px;
+	   }
+   td, th {
+    background: maroon; 
+    padding: 5px;
+   }
+   
+   .td1{background-color:orange;}
+   
+   .td2{background-color:red;}
+
+/* aside{height:100px;
+width:49%;
+background-color:lightblue;
+margin:0px;
+padding-top:25px;
+border:2px solid blue;
+float:right;
+position:relative;
+right:px%;}
+ */
+/* footer{height:100px;
+width:100%;
+background-color:lightblue;
+margin:0px;
+padding-top:25px;
+border:2px solid blue;
+margin-top:15px;
+float:left;} */

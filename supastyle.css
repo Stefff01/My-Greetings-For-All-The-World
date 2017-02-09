@@ -1,0 +1,141 @@
+
+  
+.date{height:135%;
+	width:105%;
+	position:relative;
+	right:5px;
+	font-size:25px;
+	font-weight:bolder;
+	color:white;
+	} 
+	
+.weight{height:135%;
+	width:105%;
+	position:relative;
+	right:5px;
+	font-size:25px;
+	font-weight:bolder;
+	color:white;
+	}
+	
+.meat{height:135%;
+	width:105%;
+	position:relative;
+	right:5px;
+	font-size:25px;
+	font-weight:bolder;
+	color:white;
+    }
+ 
+header{height:40px;
+	width:100%;
+	margin:0px;
+	padding-top:25px;
+	border:2px inside white;
+	border-radius:25px;}
+	
+ #href0{margin-left:5px;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:45px;
+	 padding-right:45px;
+	 border-radius:25px;}
+
+ #href{margin-left:5px;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:45px;
+	 padding-right:45px;
+	 border-radius:25px;}
+ 
+  #href1{margin-left:5px;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:45px;
+	 padding-right:45px;
+	 border-radius:25px;}
+ 
+   #href2{margin-left:5px;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:45px;
+	 padding-right:45px;
+	 border-radius:25px;}
+	 
+   #href3{margin-left:5px;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:45px;
+	 padding-right:45px;
+	 border-radius:25px;}
+	 
+	#href4{margin-left:5px;
+	 position:relative;
+	 bottom:13px;
+	 font-size:30px;
+	 color:white;
+	 text-decoration:none;
+	 padding:7px;
+	 padding-left:45px;
+	 padding-right:30px;
+	 border-radius:25px;}
+	 
+
+
+article{height:500px;
+	width:100%;
+	color:white;
+	font-size:25px;
+	font-weight:bolder;
+	margin:0px;
+	padding-top:25px;
+	margin-top:15px;
+	float:left;}
+	
+   th{background-color:red;
+   color:white;}
+   
+   
+   
+    td{color:red;
+	background-color:darkblue;
+   }
+
+/* aside{height:100px;
+width:49%;
+background-color:lightblue;
+margin:0px;
+padding-top:25px;
+border:2px solid blue;
+float:right;
+position:relative;
+right:px%;}
+ */
+/* footer{height:100px;
+width:100%;
+background-color:lightblue;
+margin:0px;
+padding-top:25px;
+border:2px solid blue;
+margin-top:15px;
+float:left;} */

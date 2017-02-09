@@ -1,0 +1,138 @@
+*{font-family:Comic Sans MS;
+cursor: crosshair;}
+
+html{
+	background-image:url(http://www.1366x768.net/large/201212/12417.jpg)
+}
+
+#href{color:white;
+   background-color:#800000;
+   box-shadow:1px 1px 1px black;
+   font-size:30px;
+   text-decoration:none;
+   padding-left:10px;
+   padding-right:10px;
+   margin-top:0px;
+   position:relative;
+   bottom:15px;
+   right:170px;
+   background:-webkit-linear-gradient(top,#800000,#84004D);
+}   
+
+#href:hover{background-color:#84004D;
+}
+
+#href:active{background-color:#8B0000;
+box-shadow:none;}
+
+#href1{color:white;
+   background-color:#800000;
+   box-shadow:1px 1px 1px black;
+   font-size:30px;
+   text-decoration:none;
+   padding-left:10px;
+   padding-right:10px;
+   position:relative;
+   bottom:15px;
+   right:175px;
+}   
+
+#href1:hover{background-color:#84004D;
+}
+
+#href1:active{background-color:#8B0000;
+box-shadow:none;}
+
+#href2{color:white;
+   font-size:30px;
+   text-decoration:none;
+   padding-left:10px;
+   padding-right:10px;
+   background-color:#8B0000;
+   box-shadow:1px 1px 1px black;
+   position:relative;
+   bottom:15px;
+   right:180px;
+   background:-webkit-linear-gradient(top,#800000,#84004D);
+} 
+
+#href2:hover{background-color:#84004D;
+}
+
+#href2:active{background-color:#8B0000;
+box-shadow:none;}
+ 
+header{width:99%;
+   text-align:center;
+   color:white;
+   font-family:Comic Sans MS;
+   height:30px;
+   border:3px outset blue;
+   padding:15px;
+   color:blue;
+   font-size:35px;
+   margin-left:-10px;
+   margin-right:0px;
+   position:relative;
+   right:5px;
+   text-shadow:1px 1px 10px #FFAE00;
+   background:-webkit-linear-gradient(top,#800000,#84004D);
+}
+
+article,aside{height:1000px;
+   border:3px outset blue;
+   border-radius:25px;
+   padding:5px;
+   color:white;
+   box-sizing:border-box; 
+   margin-top:1%;
+      background:-webkit-linear-gradient(top,#800000,#84004D);
+}
+
+article{float:right;
+  width:71%;
+  font-size:40px;
+  margin-left:2%;
+  margin-right:1%;
+  text-shadow:1px 1px 10px #FFAE00;}
+
+aside{float:top;
+  margin-top:-16px;
+  width:26%;
+  margin-left:1%;
+  margin-right:2%;
+}
+
+  div{height:300px;
+   width:50px;
+   border:2px dotted black;
+   background-color:white;  
+   color:blue;
+   padding:50px;
+  }
+
+aside ul{width:80%;
+margin-left:10%;
+list-style-type:square;
+}
+
+
+	footer{height:100px;
+		width:1250px;
+		margin-top:1%;
+		margin-left:2%;
+		font-size:25px;
+		padding:15px;
+		color:white;
+		font-family:Comic Sans MS;
+		float:left;
+		border-radius:25px;
+		border:3px solid blue;
+	background:-webkit-linear-gradient(top,#800000,#84004D);}
+
+
+
+
+
+
+
